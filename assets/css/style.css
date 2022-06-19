@@ -1,0 +1,17 @@
+
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 460px;
+}
+
+.carousel-inner{
+ height: 200px;
+ margin: 10px;
+ margin-block: 10px;
+ background: #000;;
+}
+
+section {
+    box-flex-group: black;
+}
